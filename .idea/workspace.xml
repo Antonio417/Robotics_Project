@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0695032c-d3e6-49d1-941c-741870d2fed5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/.auto_fruit_search_1.py.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/M5_lab4_sim_search_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/M5_lab4_sim_search_list.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/TargetPoseEst.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/TargetPoseEst.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/aruco_true.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/aruco_true.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/auto_fruit_search_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/auto_fruit_search_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/lab_output/M5_lab4_sim_map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/lab_output/M5_lab4_sim_map.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/lab_output/images.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/lab_output/images.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/lab_output/pred_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/lab_output/pred_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/lab_output/pred_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/lab_output/pred_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/lab_output/pred_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/lab_output/pred_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/lab_output/pred_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/lab_output/pred_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/lab_output/pred_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/lab_output/pred_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/lab_output/pred_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/lab_output/pred_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/lab_output/pred_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/lab_output/pred_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/lab_output/pred_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/lab_output/pred_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/lab_output/slam.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/lab_output/slam.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/lab_output/targets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/lab_output/targets.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/map.png" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/map_og.png" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/map_og.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_demo/your_file.png" beforeDir="false" afterPath="$PROJECT_DIR$/Final_demo/your_file.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DYPhDhMPeofPnYXuDO0VufmG0N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ece4078/412_ECE4078/Week08-09&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week08-09" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0695032c-d3e6-49d1-941c-741870d2fed5" name="Changes" comment="" />
+      <created>1660873161564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660873161564</updated>
+      <workItem from="1664976206393" duration="5095000" />
+      <workItem from="1665043956285" duration="2083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
